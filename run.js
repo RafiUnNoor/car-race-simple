@@ -19,7 +19,7 @@ const ASSETS = {
         height: 56
       },
       CAR: {
-        src: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/155629/car04.png',
+        src: 'c3.png',
         width: 50,
         height: 36
       },
